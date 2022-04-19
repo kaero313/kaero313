@@ -35,9 +35,9 @@
 
     
   </div>
-    
-  ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=90)
 
   -->
+    
+  ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=90)
 
 </div>
