@@ -1,5 +1,7 @@
 <div align=center>
   
+  <!--
+  
   ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Hi%20there%20👋&fontSize=90&section=footer)
 
   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaero313&show_icons=true&theme=radical)
@@ -35,5 +37,7 @@
   </div>
     
   ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&fontSize=90)
+
+  -->
 
 </div>
